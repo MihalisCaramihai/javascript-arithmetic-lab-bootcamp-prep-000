@@ -3,3 +3,7 @@ function add(a, b){
   parseInt(b = 80);
   return (a + b);
 }
+
+function() {
+  add(a, b) === (a + b)
+})
