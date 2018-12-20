@@ -18,7 +18,7 @@ function inc(n){
   return n += 1
 }
 
-functino dex(n){
+function dec(n){
   return n -= 1
 }
 
