@@ -17,3 +17,17 @@ function divide(a, b){
 function inc(n){
   return n += 1
 }
+
+functino dex(n){
+  return n -= 1
+}
+
+
+
+
+
+
+
+
+
+
