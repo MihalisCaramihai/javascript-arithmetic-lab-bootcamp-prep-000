@@ -1,5 +1,5 @@
 function add(a, b){
-  a = 1;
-  b = 80;
+  parseInt(a = 1);
+  parseInt(b = 80);
   return (a + b);
 }
