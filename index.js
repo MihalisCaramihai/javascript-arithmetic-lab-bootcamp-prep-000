@@ -1,9 +1,5 @@
 function add(a, b){
-  parseInt(a = 1);
-  parseInt(b = 80);
+  a = parseInt(1);
+  b = parseInt(80);
   return (a + b);
 }
-
-function() {
-  add(a, b) === (a + b)
-})
